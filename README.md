@@ -1,8 +1,9 @@
 # Weather-app
-This is the Web app in which you find the current weather deatials of any city or country.
 
-This made using html, css and js.
+This is the Web app in which you find the current weather detail of any city or country.
 
-It uses the api to find the weather.
+I  used technology like HTML, CSS and JAVASCRIPT.
+
+Where I get Data regarding weather from an API .
 
 Hope you like it.
